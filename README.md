@@ -18,7 +18,7 @@ Following sources have been used:
 
 * SRTM-1 global elevation data from https://lpdaac.usgs.gov/products/srtmgl1v003/ 
 * Landcover Data from VMAP0 by the National Geospatial-Intelligence Agency from https://gis-lab.info/qa/vmap0-eng.html
-* Landcover Data from http://download.geofabrik.de and https://osmdata.openstreetmap.de/data/land-polygons.html
+* Landcover Data from http://download.geofabrik.de and https://osmdata.openstreetmap.de/data/land-polygons.html under ODbL 1.0
 * Airport Data from https://gateway.x-plane.com and manually edited by Sam Figaro and Benedikt Wolf
 * Objects from FlightGear's terrasync (see scenery.flightgear.org)
 
